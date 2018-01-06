@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jianming Shi&#39;s blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://jianmings.github.io/"/>
+  <updated>2017-09-20T14:55:02.000Z</updated>
+  <id>https://jianmings.github.io/</id>
+  
+  <author>
+    <name>Jianming Shi</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://jianmings.github.io/2017/09/20/hello-world/"/>
+    <id>https://jianmings.github.io/2017/09/20/hello-world/</id>
+    <published>2017-09-20T14:55:02.000Z</published>
+    <updated>2017-09-20T14:55:02.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Sat Jan 06 2018 23:55:58 GMT+0800 (CST) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
